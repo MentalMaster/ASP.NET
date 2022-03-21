@@ -1,0 +1,20 @@
+﻿@model Lab01.ex02_MVC.Models.Person
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Hello</title>
+</head>
+<body>
+    <h1>Здравствуйте, @Model.ToString()!</h1>
+    <p>
+        @Html.ActionLink("На главную", "Index")
+    </p>
+</body>
+</html>
