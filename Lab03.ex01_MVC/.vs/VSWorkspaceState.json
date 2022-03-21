@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Start",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\Web.Debug.config",
+  "PreviewInSolutionExplorer": false
+}
