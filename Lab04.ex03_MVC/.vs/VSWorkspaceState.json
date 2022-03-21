@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Content",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\TempPE",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\Web.Release.config",
+  "PreviewInSolutionExplorer": false
+}
