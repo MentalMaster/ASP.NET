@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Start",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\TempPE",
+    "\\Properties",
+    "\\Views"
+  ],
+  "SelectedNode": "\\Views\\web.config",
+  "PreviewInSolutionExplorer": false
+}
